@@ -97,23 +97,26 @@ const Carousel = () => {
         <div className={style.items}>
           <TbTruckDelivery
             size={40}
-            style={{ marginLeft: "30px", color: "plum" }}
+            style={{ marginLeft: "30px", color: "plum"}}
           />
           <p>FREE DELIVERY</p>
+          
         </div>
         <div>
           <RiCustomerService2Fill
             size={40}
-            style={{ marginLeft: "30px", color: "plum" }}
+            style={{ marginLeft: "30px", color: "plum"}}
           />
-          <p>247 SUPPORT</p>
+          <p>CUSTOMER SUPPPORT</p>
+          
         </div>
         <div>
           <FaCcMastercard
             size={40}
-            style={{ marginLeft: "35px", color: "plum" }}
+            style={{ marginLeft: "35px", color: "plum"}}
           />
           <p>SECURE PAYMENT</p>
+          
         </div>
         <div>
           <MdHighQuality
@@ -121,6 +124,7 @@ const Carousel = () => {
             style={{ marginLeft: "35px", color: "plum" }}
           />
           <p>HIGH QUALITY</p>
+         
         </div>
       </div>
     </div>
