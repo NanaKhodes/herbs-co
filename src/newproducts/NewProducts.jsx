@@ -16,6 +16,15 @@ const NewProducts = () => {
         <div className={style.item}>8</div>
         <div className={style.item}>9</div>
       </div>
+
+      <div>
+        <h3>GET 10% OFF YOUR FIRST ORDER</h3>
+        <p>Subscribe to get more offers and once-in-a-lifetime deals</p>
+         <form action="#" method="post">
+            <input type="email" id="email" name="email" placeholder="Enter your email address" required/>
+            <button type="submit">Subscribe</button>
+        </form>
+      </div>
     </div>
   );
 };
