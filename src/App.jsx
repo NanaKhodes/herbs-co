@@ -4,6 +4,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Nav from './navigation/Nav'
 import Categories from './categories/Categories';
 import NewProducts from './newproducts/NewProducts';
+import Footer from './footer/Footer';
 function App() {
  
 
@@ -13,6 +14,7 @@ function App() {
       <Carousel />
       <Categories />
       <NewProducts />
+      <Footer />
     </>
   )
 }

@@ -1,29 +1,126 @@
 import React from "react";
 import style from './NewProducts.module.css'
+import image1 from '../assets/images/DIY Infused Olive Oils.jpg'
 
 const NewProducts = () => {
   return (
     <div>
       <h3>New Products</h3>
       <div className={style.container}>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
-        <div className={style.item}>lorem ipsum</div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info} v>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
+        <div className={style.item}>
+          <div className={style.items}>
+            <div>
+              <img src={image1} alt="" />
+            </div>
+            <div className={style.info}>
+              <h4>Product Name</h4>
+              <p>Price: N1000</p>
+            </div>
+          </div>
+        </div>
       </div>
 
-      <div>
+      <div className={style.get}>
         <h3>GET 10% OFF YOUR FIRST ORDER</h3>
         <p>Subscribe to get more offers and once-in-a-lifetime deals</p>
-         <form action="#" method="post">
-            <input type="email" id="email" name="email" placeholder="Enter your email address" required/>
-            <button type="submit">Subscribe</button>
-        </form>
+        <div className={style.subscribe}>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email address"
+            required
+          />
+          <button type="submit">Subscribe</button>
+        </div>
       </div>
     </div>
   );
