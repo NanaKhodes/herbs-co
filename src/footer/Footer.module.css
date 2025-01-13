@@ -1,8 +1,50 @@
 .one{
     display: flex;
+    justify-content: space-between;
+    border: 2px solid rgb(199, 196, 196);
+    padding: 0px;
+    width: 100%;
 }
-.links{
+.one ul{
+   margin-top: 15px;
+   font-weight: bolder;
+   
+}
+
+.two{
+   background-color: plum;
+   display: flex;
+   justify-content: space-evenly;
+   padding: 20px;
+} 
+.two ul{
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+   flex-direction: column;
+   margin-right: 20px;
+  
+}
+
+ h5{
+ text-align: center;
+ margin-right: 10px;
+ color: white;
+ font-weight: bolder;
+}
+
+.list a{
+    text-decoration: none;
+    color: white;
+    margin-right: 60px;
+    
+   
+}
+.list a:hover{
+    color: grey;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 10px;
 }
