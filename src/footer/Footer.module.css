@@ -1,50 +1,49 @@
-.one{
-    display: flex;
-    justify-content: space-between;
-    border: 2px solid rgb(199, 196, 196);
-    padding: 0px;
-    width: 100%;
+.one {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgb(199, 196, 196);
+  padding: 0px;
+  width: 100%;
 }
-.one ul{
-   margin-top: 15px;
-   font-weight: bolder;
-   
-}
-
-.two{
-   background-color: plum;
-   display: flex;
-   justify-content: space-evenly;
-   padding: 20px;
-} 
-.two ul{
-    display: flex;
-   flex-direction: column;
-   margin-right: 20px;
-  
+.one ul {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+  margin-right: 5px;
+  font-weight: bolder;
 }
 
- h5{
- text-align: center;
- margin-right: 10px;
- color: black;
- font-weight: bolder;
+.two {
+  background-color: plum;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+.two ul {
+  display: flex;
+  flex-direction: column;
+  margin-right: 20px;
 }
 
-.list a{
-    text-decoration: none;
-    color: black;
-    margin-right: 60px;
-    
-   
+h5 {
+  text-align: center;
+  margin-right: 10px;
+  color: black;
+  font-weight: bolder;
 }
-.list a:hover{
-    color: grey;
+
+.list a {
+  text-decoration: none;
+  color: black;
+  margin-right: 50px;
 }
-.icons{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-    margin-top: 10px;
+.list a:hover {
+  color: grey;
+}
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 10px;
 }

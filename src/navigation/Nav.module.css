@@ -41,8 +41,9 @@ a{
     justify-content: center;
     align-items: center;
 }
-ul{
+.left ul{
     margin-left: 10px;
+    margin-top: 12px;
    display: flex;
    gap: 20px;
 }
@@ -51,4 +52,78 @@ ul{
     justify-content: center;
     align-items: center;
     gap: 20px;
+}
+
+
+/*media queries*/
+
+/* Extra Small Screens (xs) */
+@media (max-width: 600px) {
+ .nav{
+    background-color: plum;
+    height: 250px;
+}
+.herbs{
+    
+}
+
+/*second layer*/
+.flist{
+    display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   background-color: yellow;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+/*third layer*/
+.third{
+   
+    padding: 5px;
+    background-color: green;
+   
+}
+.left{
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    background-color: grey;
+    
+}
+.left ul{
+    /* display: flex;
+    flex-direction: row; */
+}
+.right{
+    /* display: flex; */
+   margin-top: 50px;
+   background-color: purple;
+   height: 50px;
+}
+
+
+}
+
+/* Small Screens (sm) */
+@media (min-width: 601px) and (max-width: 767px) {
+}
+
+/* Medium Screens (md) */
+@media (min-width: 768px) and (max-width: 991px) {
+  
+}
+
+/* Large Screens (lg) */
+@media (min-width: 992px) {
+  
+}
+
+/* Extra Large Screens (xl) */
+@media (min-width: 1200px) {
+  
 }
