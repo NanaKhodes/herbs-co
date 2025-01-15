@@ -14,19 +14,80 @@ const nav = () => {
       </div>
 
       <div className={styles.second}>
-        <ul className={styles.flist}>
-          <li>
+        {/* <ul className={styles.flist}> */}
+        <div className={styles.flist}>
+          <button
+            class="btn btn- dropdown-toggle"
+            type="button"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Language
+          </button>
+          <ul class="dropdown-menu">
+            <li>
+              <a class="dropdown-item" href="#">
+                English
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="#">
+                French
+              </a>
+            </li>
+            <li>
+              <a class="dropdown-item" href="#">
+                German
+              </a>
+            </li>
+          </ul>
+
+          <div class="dropdown">
+            <button
+              class="btn btn- dropdown-toggle"
+              type="button"
+              data-bs-toggle="dropdown"
+              aria-expanded="false"
+            >
+              Currency
+            </button>
+            <ul class="dropdown-menu">
+              <li>
+                <a class="dropdown-item" href="#">
+                  Naira
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Dollars
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Pounds
+                </a>
+              </li>
+              <li>
+                <a class="dropdown-item" href="#">
+                  Euro
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        {/* <li>
             <a href="">Language</a>
           </li>
           <li>
             <a href="">Currency</a>
           </li>
-        </ul>
+        </ul> */}
       </div>
 
       <div className={styles.third}>
         <div className={styles.left}>
-         <GiClover size={32} />
+          <GiClover size={32} />
           <ul>
             <li>
               <a href="">SHOP</a>

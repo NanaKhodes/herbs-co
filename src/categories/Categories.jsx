@@ -7,6 +7,7 @@ import image4 from '../assets/images/Mango Butter For Hair_ Benefits And How To 
 import image5 from '../assets/images/18bd6801-486d-4493-9414-9ed253a76f8b.jpg'
 
 const Categories = () => {
+
   return (
     <div>
         <h3>Categories</h3>
@@ -51,4 +52,4 @@ const Categories = () => {
   );
 }
 
-export default Categories
+export default Categories;
