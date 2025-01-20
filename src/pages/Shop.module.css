@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.shop {
+  margin-top: 10px;
+  padding-right: 30px;
+}
+.shop ul {
+  border: 2px solid black;
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  width: 100%;
+  height: 100%;
+  margin-left: 15px;
+  gap: 10px;
+}
+.shop img{
+    width: 100%;
+  height: 200px;
+}
+.item{
+    margin-right: 30px;
+   border: 2px solid rgb(17, 255, 0);
+    
+}
+
+.details{
+       border: 2px solid yellow;
+     
+      
+}
