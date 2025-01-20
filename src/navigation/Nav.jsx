@@ -5,16 +5,17 @@ import { CiUser } from "react-icons/ci";
 import { ImCart } from "react-icons/im";
 import { GiClover } from "react-icons/gi";
 import { TbShoppingCartHeart } from "react-icons/tb";
+import { Link } from 'react-router-dom';
 
 const nav = () => {
+  
   return (
     <div className={styles.nav}>
-      <div className={styles.herbs}>
+      {/* <div className={styles.herbs}>
         <h1>Herbs.Co</h1>
-      </div>
+      </div> */}
 
       <div className={styles.second}>
-        {/* <ul className={styles.flist}> */}
         <div className={styles.flist}>
           <button
             class="btn btn- dropdown-toggle"
@@ -75,31 +76,26 @@ const nav = () => {
             </ul>
           </div>
         </div>
-
-        {/* <li>
-            <a href="">Language</a>
-          </li>
-          <li>
-            <a href="">Currency</a>
-          </li>
-        </ul> */}
       </div>
 
       <div className={styles.third}>
+        <h4>Herbs.co</h4>
         <div className={styles.left}>
-          <GiClover size={32} />
           <ul>
             <li>
-              <a href="">SHOP</a>
+              <Link to="/">HOME</Link>
             </li>
             <li>
-              <a href="">BLOG</a>
+              <Link to="/shop">SHOP</Link>
             </li>
             <li>
-              <a href="">ABOUT</a>
+              <Link to="/blog">BLOG</Link>
             </li>
             <li>
-              <a href="">CONTACT</a>
+              <Link to="/about">ABOUT</Link>
+            </li>
+            <li>
+              <Link to="/contact">CONTACT</Link>
             </li>
           </ul>
         </div>
