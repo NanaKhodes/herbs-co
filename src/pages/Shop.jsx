@@ -43,7 +43,7 @@ const Shop = () => {
           </div>
         ))}
       </ul>
-      <div className="pagination">
+      <div className={styles.pagination}>
         <button
           onClick={() => handlePageChange(currentPage - 1)}
           disabled={currentPage === 1}

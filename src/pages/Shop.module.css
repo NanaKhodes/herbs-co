@@ -32,3 +32,19 @@
      
       
 }
+
+.pagination{
+  border: 2px solid yellow;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.pagination button{
+  padding: 10px;
+  background-color: plum;
+  border-radius: 10px;
+}
+button:hover{
+  background-color: rgb(240, 196, 240);
+}
