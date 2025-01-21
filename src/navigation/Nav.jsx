@@ -86,7 +86,7 @@ const nav = () => {
               <Link to="/">HOME</Link>
             </li>
             <li>
-              <Link to="/shop">SHOP</Link>
+             <Link to="/shop">SHOP</Link>
             </li>
             <li>
               <Link to="/blog">BLOG</Link>

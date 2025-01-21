@@ -4,6 +4,7 @@ import { GiClover } from "react-icons/gi";
 import { TbBrandFacebookFilled } from "react-icons/tb";
 import { FaInstagram } from "react-icons/fa";
 import { SiGmail } from "react-icons/si";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -12,16 +13,16 @@ const Footer = () => {
         <GiClover size={50} />
         <ul>
           <li>
-            <a href="">SHOP</a>
+            <Link to="/shop">SHOP</Link>
           </li>
           <li>
-            <a href="">BLOG</a>
+            <Link to="/blog">BLOG</Link>
           </li>
           <li>
-            <a href="">ABOUT</a>
+             <Link to="/about">ABOUT</Link>
           </li>
           <li>
-            <a href="">CONTACT</a>
+            <Link to="/contact">CONTACT</Link>
           </li>
         </ul>
       </div>
@@ -121,7 +122,7 @@ const Footer = () => {
       <div className={style.icons}>
         <TbBrandFacebookFilled size={25} />
         <FaInstagram size={25} />
-       <SiGmail size={25} />
+        <SiGmail size={25} />
       </div>
     </footer>
   );
