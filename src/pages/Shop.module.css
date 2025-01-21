@@ -34,7 +34,6 @@
 }
 
 .pagination{
-  border: 2px solid yellow;
   padding: 5px;
   display: flex;
   justify-content: center;
@@ -43,7 +42,9 @@
 .pagination button{
   padding: 10px;
   background-color: plum;
-  border-radius: 10px;
+  color: white;
+
+  border-radius: 5px;
 }
 button:hover{
   background-color: rgb(240, 196, 240);
