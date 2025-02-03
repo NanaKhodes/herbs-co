@@ -10,6 +10,11 @@ import Shop from './pages/Shop';
 import Blog from './pages/Blog'
 import About from "./pages/About";
 import Contact from "./pages/Contact";
+import Timeless from "./pages/Timeless"
+import Carrier from "./pages/Carrier";
+import Butters from "./pages/Butters";
+import Aromatic from "./pages/Aromatic";
+import Essential from "./pages/Essential";
 function App() {
  
   return (
@@ -30,14 +35,15 @@ function App() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+
+        <Route path="/timeless" element={<Timeless />} />
+        <Route path="/carrier" element={<Carrier />} />
+        <Route path="/aromatic" element={<Aromatic />} />
+        <Route path="/butters" element={<Butters />} />
+        <Route path="/essential" element={<Essential />} />
+
       </Routes>
       <Footer />
-      {/* <Routes>
-        <Route path="/shop" element={<Shop />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes> */}
     </Router>
   );
 }
