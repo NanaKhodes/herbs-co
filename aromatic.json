@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Cinnamon",
+    "description": "Warm, sweet spice used in baking and savory dishes.",
+    "image": "cinnamon.jpg",
+    "price": 500,
+    "currency": "NGN"
+  },
+  {
+    "id": 2,
+    "name": "Ginger",
+    "description": "Aromatic spice used in Asian and Indian cuisine.",
+    "image": "ginger.jpg",
+    "price": 800,
+    "currency": "NGN"
+  },
+  {
+    "id": 3,
+    "name": "Turmeric",
+    "description": "Bright yellow spice with anti-inflammatory properties.",
+    "image": "turmeric.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 4,
+    "name": "Cumin",
+    "description": "Earthy and warm spice used in Mexican and Indian cuisine.",
+    "image": "cumin.jpg",
+    "price": 300,
+    "currency": "NGN"
+  },
+  {
+    "id": 5,
+    "name": "Coriander",
+    "description": "Slightly citrusy flavor, used in many cuisines.",
+    "image": "coriander.jpg",
+    "price": 400,
+    "currency": "NGN"
+  },
+  {
+    "id": 6,
+    "name": "Paprika",
+    "description": "Mild to hot chili powder, adds color and flavor.",
+    "image": "paprika.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 7,
+    "name": "Chili Powder",
+    "description": "Spicy blend of chili peppers and other spices.",
+    "image": "chili_powder.jpg",
+    "price": 350,
+    "currency": "NGN"
+  },
+  {
+    "id": 8,
+    "name": "Cayenne Pepper",
+    "description": "Very hot chili pepper, adds intense heat.",
+    "image": "cayenne_pepper.jpg",
+    "price": 450,
+    "currency": "NGN"
+  },
+  {
+    "id": 9,
+    "name": "Garlic Powder",
+    "description": "Dried and ground garlic, adds savory flavor.",
+    "image": "garlic_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 10,
+    "name": "Onion Powder",
+    "description": "Dried and ground onion, adds savory flavor.",
+    "image": "onion_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 11,
+    "name": "Oregano",
+    "description": "Aromatic herb, commonly used in Italian cuisine.",
+    "image": "oregano.jpg",
+    "price": 250,
+    "currency": "NGN"
+  },
+  {
+    "id": 12,
+    "name": "Basil",
+    "description": "Aromatic herb, often used in Italian cuisine.",
+    "image": "basil.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 13,
+    "name": "Rosemary",
+    "description": "Woody and flavorful herb, often used in roasting.",
+    "image": "rosemary.jpg",
+    "price": 300,
+    "currency": "NGN"
+  },
+  {
+    "id": 14,
+    "name": "Thyme",
+    "description": "Aromatic herb, often used in soups and stews.",
+    "image": "thyme.jpg",
+    "price": 250,
+    "currency": "NGN"
+  },
+  {
+    "id": 15,
+    "name": "Parsley",
+    "description": "Fresh or dried herb, used as garnish and in many dishes.",
+    "image": "parsley.jpg",
+    "price": 100,
+    "currency": "NGN"
+  },
+  {
+    "id": 16,
+    "name": "Bay Leaves",
+    "description": "Aromatic leaves used in soups, stews, and stocks.",
+    "image": "bay_leaves.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 17,
+    "name": "Nutmeg",
+    "description": "Nutty and slightly sweet spice, used in baking and savory dishes.",
+    "image": "nutmeg.jpg",
+    "price": 600,
+    "currency": "NGN"
+  },
+  {
+    "id": 18,
+    "name": "Cloves",
+    "description": "Strong, pungent spice used in baking and savory dishes.",
+    "image": "cloves.jpg",
+    "price": 400,
+    "currency": "NGN"
+  },
+  {
+    "id": 19,
+    "name": "Cardamom",
+    "description": "Aromatic and slightly sweet spice, often used in Indian cuisine.",
+    "image": "cardamom.jpg",
+    "price": 800,
+    "currency": "NGN"
+  },
+  {
+    "id": 20,
+    "name": "Star Anise",
+    "description": "Aromatic star-shaped spice used in Asian cuisine.",
+    "image": "star_anise.jpg",
+    "price": 700,
+    "currency": "NGN"
+  },
+  {
+    "id": 21,
+    "name": "Fennel",
+    "description": "Licorice-flavored spice, used in Italian sausage and other dishes.",
+    "image": "fennel.jpg",
+    "price": 350,
+    "currency": "NGN"
+  },
+  {
+    "id": 22,
+    "name": "Mustard Seeds",
+    "description": "Used in Indian, Middle Eastern, and European cuisines.",
+    "image": "mustard_seeds.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 23,
+    "name": "Black Pepper",
+    "description": "Commonly used spice, adds heat and flavor to dishes.",
+    "image": "black_pepper.jpg",
+    "price": 100,
+    "currency": "NGN"
+  },
+  {
+    "id": 24,
+    "name": "White Pepper",
+    "description": "Milder than black pepper, often used in lighter-colored dishes.",
+    "image": "white_pepper.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 25,
+    "name": "Allspice",
+    "description": "Aromatic spice with a blend of cinnamon, nutmeg, and cloves flavors.",
+    "image": "allspice.jpg",
+    "price": 500,
+    "currency": "NGN"
+  },
+  {
+    "id": 26,
+    "name": "Paprika",
+    "description": "Mild to hot chili powder, adds color and flavor.",
+    "image": "paprika.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 27,
+    "name": "Chili Powder",
+    "description": "Spicy blend of chili peppers and other spices.",
+    "image": "chili_powder.jpg",
+    "price": 350,
+    "currency": "NGN"
+  },
+  {
+    "id": 28,
+    "name": "Cayenne Pepper",
+    "description": "Very hot chili pepper, adds intense heat.",
+    "image": "cayenne_pepper.jpg",
+    "price": 450,
+    "currency": "NGN"
+  },
+  {
+    "id": 29,
+    "name": "Garlic Powder",
+    "description": "Dried and ground garlic, adds savory flavor.",
+    "image": "garlic_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 30,
+    "name": "Onion Powder",
+    "description": "Dried and ground onion, adds savory flavor.",
+    "image": "onion_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  }
+]

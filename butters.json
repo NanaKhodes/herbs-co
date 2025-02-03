@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Shea Butter",
+    "description": "Rich and creamy, excellent for dry skin.",
+    "image": "shea_butter.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 2,
+    "name": "Mango Butter",
+    "description": "Nourishing and moisturizing, good for all skin types.",
+    "image": "mango_butter.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 3,
+    "name": "Cocoa Butter",
+    "description": "Rich in antioxidants, helps improve skin elasticity.",
+    "image": "cocoa_butter.jpg",
+    "price": 2800,
+    "currency": "NGN"
+  },
+  {
+    "id": 4,
+    "name": "Murumuru Butter",
+    "description": "Highly moisturizing, good for dry and damaged hair.",
+    "image": "murumuru_butter.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 5,
+    "name": "Cupuaçu Butter",
+    "description": "Rich in fatty acids, excellent for dry and sensitive skin.",
+    "image": "cupuacu_butter.jpg",
+    "price": 3200,
+    "currency": "NGN"
+  },
+  {
+    "id": 6,
+    "name": "Ucuuba Butter",
+    "description": "Hard butter with excellent moisturizing properties.",
+    "image": "ucuuba_butter.jpg",
+    "price": 3800,
+    "currency": "NGN"
+  },
+  {
+    "id": 7,
+    "name": "Illipe Butter",
+    "description": "Rich and creamy, good for dry and mature skin.",
+    "image": "illipe_butter.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 8,
+    "name": "Babassu Butter",
+    "description": "Lightweight and easily absorbed, good for all skin types.",
+    "image": "babassu_butter.jpg",
+    "price": 2800,
+    "currency": "NGN"
+  },
+  {
+    "id": 9,
+    "name": "Mango Butter",
+    "description": "Nourishing and moisturizing, good for all skin types.",
+    "image": "mango_butter.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 10,
+    "name": "Kokum Butter",
+    "description": "Rich in antioxidants, helps improve skin elasticity.",
+    "image": "kokum_butter.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  }
+]

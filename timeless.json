@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Lavender",
+    "description": "Calming and relaxing.",
+    "image": "lavender.jpg",
+    "price": 6000,
+    "currency": "NGN"
+  },
+  {
+    "id": 2,
+    "name": "Rosemary",
+    "description": "Enhances memory and focus.",
+    "image": "rosemary.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 3,
+    "name": "Chamomile",
+    "description": "Soothes anxiety and promotes sleep.",
+    "image": "chamomile.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 4,
+    "name": "Peppermint",
+    "description": "Relieves headaches and digestive issues.",
+    "image": "peppermint.jpg",
+    "price": 7500,
+    "currency": "NGN"
+  },
+  {
+    "id": 5,
+    "name": "Eucalyptus",
+    "description": "Relieves congestion and clears the sinuses.",
+    "image": "eucalyptus.jpg",
+    "price": 9000,
+    "currency": "NGN"
+  },
+  {
+    "id": 6,
+    "name": "Ginger",
+    "description": "Aids digestion and relieves nausea.",
+    "image": "ginger.jpg",
+    "price": 3750,
+    "currency": "NGN"
+  },
+  {
+    "id": 7,
+    "name": "Turmeric",
+    "description": "Anti-inflammatory and antioxidant properties.",
+    "image": "turmeric.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 8,
+    "name": "Lemon Balm",
+    "description": "Reduces stress and anxiety.",
+    "image": "lemon_balm.jpg",
+    "price": 4500,
+    "currency": "NGN"
+  },
+  {
+    "id": 9,
+    "name": "Valerian Root",
+    "description": "Promotes relaxation and sleep.",
+    "image": "valerian_root.jpg",
+    "price": 7000,
+    "currency": "NGN"
+  },
+  {
+    "id": 10,
+    "name": "Ashwagandha",
+    "description": "Reduces stress and improves mood.",
+    "image": "ashwagandha.jpg",
+    "price": 10000,
+    "currency": "NGN"
+  },
+  {
+    "id": 11,
+    "name": "Ginkgo Biloba",
+    "description": "Enhances cognitive function.",
+    "image": "ginkgo_biloba.jpg",
+    "price": 8000,
+    "currency": "NGN"
+  },
+  {
+    "id": 12,
+    "name": "Echinacea",
+    "description": "Supports immune health.",
+    "image": "echinacea.jpg",
+    "price": 6000,
+    "currency": "NGN"
+  },
+  {
+    "id": 13,
+    "name": "St. John's Wort",
+    "description": "May help with mild to moderate depression.",
+    "image": "st_johns_wort.jpg",
+    "price": 9000,
+    "currency": "NGN"
+  },
+  {
+    "id": 14,
+    "name": "Dandelion Root",
+    "description": "Supports liver health.",
+    "image": "dandelion_root.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 15,
+    "name": "Burdock Root",
+    "description": "Supports healthy blood sugar levels.",
+    "image": "burdock_root.jpg",
+    "price": 4500,
+    "currency": "NGN"
+  },
+  {
+    "id": 16,
+    "name": "Licorice Root",
+    "description": "Soothes sore throats and coughs.",
+    "image": "licorice_root.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 17,
+    "name": "Fennel Seed",
+    "description": "Aids digestion and relieves gas.",
+    "image": "fennel_seed.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 18,
+    "name": "Cumin Seed",
+    "description": "Aids digestion and adds flavor to food.",
+    "image": "cumin_seed.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 19,
+    "name": "Oregano",
+    "description": "Antioxidant and antimicrobial properties.",
+    "image": "oregano.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 20,
+    "name": "Thyme",
+    "description": "Supports respiratory health.",
+    "image": "thyme.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 21,
+    "name": "Basil",
+    "description": "Antioxidant and anti-inflammatory properties.",
+    "image": "basil.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 22,
+    "name": "Parsley",
+    "description": "Rich in vitamins and minerals.",
+    "image": "parsley.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 23,
+    "name": "Cilantro",
+    "description": "Aids digestion and adds flavor to food.",
+    "image": "cilantro.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 24,
+    "name": "Sage",
+    "description": "Supports cognitive function.",
+    "image": "sage.jpg",
+    "price": 5500,
+    "currency": "NGN"
+  },
+  {
+    "id": 25,
+    "name": "Cinnamon",
+    "description": "Antioxidant and anti-inflammatory properties.",
+    "image": "cinnamon.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 26,
+    "name": "Ginger Root",
+    "description": "Aids digestion and relieves nausea.",
+    "image": "ginger_root.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 27,
+    "name": "Garlic",
+    "description": "Antimicrobial and immune-boosting properties.",
+    "image": "garlic.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 28,
+    "name": "Onion",
+    "description": "Antioxidant and anti-inflammatory properties.",
+    "image": "onion.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 29,
+    "name": "Pepper",
+    "description": "Adds flavor and may have some health benefits.",
+    "image": "pepper.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 30,
+    "name": "Valerian Root",
+    "description": "Promotes relaxation and sleep.",
+    "image": "valerian_root.jpg",
+    "price": 7000,
+    "currency": "NGN"
+  }
+]

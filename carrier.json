@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Sweet Almond Oil",
+    "description": "Light, easily absorbed, suitable for all skin types.",
+    "image": "sweet_almond_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 2,
+    "name": "Jojoba Oil",
+    "description": "Closely resembles human sebum, non-greasy.",
+    "image": "jojoba_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 3,
+    "name": "Coconut Oil",
+    "description": "Antimicrobial, moisturizing, good for hair and skin.",
+    "image": "coconut_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 4,
+    "name": "Argan Oil",
+    "description": "Rich in antioxidants, good for dry and mature skin.",
+    "image": "argan_oil.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 5,
+    "name": "Grapeseed Oil",
+    "description": "Lightweight, easily absorbed, good for oily skin.",
+    "image": "grapeseed_oil.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 6,
+    "name": "Olive Oil",
+    "description": "Moisturizing, nourishing, good for all skin types.",
+    "image": "olive_oil.jpg",
+    "price": 800,
+    "currency": "NGN"
+  },
+  {
+    "id": 7,
+    "name": "Avocado Oil",
+    "description": "Rich in vitamins and minerals, good for dry and mature skin.",
+    "image": "avocado_oil.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 8,
+    "name": "Rosehip Oil",
+    "description": "High in antioxidants, helps reduce the appearance of scars.",
+    "image": "rosehip_oil.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 9,
+    "name": "Evening Primrose Oil",
+    "description": "Soothes dry and irritated skin.",
+    "image": "evening_primrose_oil.jpg",
+    "price": 2200,
+    "currency": "NGN"
+  },
+  {
+    "id": 10,
+    "name": "Hemp Seed Oil",
+    "description": "Rich in omega-3 and omega-6 fatty acids.",
+    "image": "hemp_seed_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 11,
+    "name": "Borage Oil",
+    "description": "High in gamma-linolenic acid (GLA), good for dry skin.",
+    "image": "borage_oil.jpg",
+    "price": 2800,
+    "currency": "NGN"
+  },
+  {
+    "id": 12,
+    "name": "Black Seed Oil",
+    "description": "Anti-inflammatory, may help with skin conditions.",
+    "image": "black_seed_oil.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 13,
+    "name": "Apricot Kernel Oil",
+    "description": "Light and easily absorbed, good for all skin types.",
+    "image": "apricot_kernel_oil.jpg",
+    "price": 1600,
+    "currency": "NGN"
+  },
+  {
+    "id": 14,
+    "name": "Macadamia Nut Oil",
+    "description": "Rich in palmitoleic acid, good for dry and mature skin.",
+    "image": "macadamia_nut_oil.jpg",
+    "price": 3200,
+    "currency": "NGN"
+  },
+  {
+    "id": 15,
+    "name": "Hazelnut Oil",
+    "description": "Lightweight and easily absorbed, good for oily skin.",
+    "image": "hazelnut_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 16,
+    "name": "Grapefruit Seed Oil",
+    "description": "Antimicrobial properties, may help with acne.",
+    "image": "grapefruit_seed_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 17,
+    "name": "Evening Primrose Oil",
+    "description": "Soothes dry and irritated skin.",
+    "image": "evening_primrose_oil.jpg",
+    "price": 2200,
+    "currency": "NGN"
+  },
+  {
+    "id": 18,
+    "name": "Sesame Oil",
+    "description": "High in antioxidants, good for dry and mature skin.",
+    "image": "sesame_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 19,
+    "name": "Safflower Oil",
+    "description": "High in linoleic acid, good for oily skin.",
+    "image": "safflower_oil.jpg",
+    "price": 1400,
+    "currency": "NGN"
+  },
+  {
+    "id": 20,
+    "name": "Sunflower Oil",
+    "description": "Rich in vitamin E, good for all skin types.",
+    "image": "sunflower_oil.jpg",
+    "price": 900,
+    "currency": "NGN"
+  },
+  {
+    "id": 21,
+    "name": "Wheat Germ Oil",
+    "description": "High in vitamin E and antioxidants.",
+    "image": "wheat_germ_oil.jpg",
+    "price": 2400,
+    "currency": "NGN"
+  },
+  {
+    "id": 22,
+    "name": "Almond Oil",
+    "description": "Light, easily absorbed, suitable for all skin types.",
+    "image": "almond_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 23,
+    "name": "Jojoba Oil",
+    "description": "Closely resembles human sebum, non-greasy.",
+    "image": "jojoba_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 24,
+    "name": "Coconut Oil",
+    "description": "Antimicrobial, moisturizing, good for hair and skin.",
+    "image": "coconut_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 25,
+    "name": "Argan Oil",
+    "description": "Rich in antioxidants, good for dry and mature skin.",
+    "image": "argan_oil.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 26,
+    "name": "Grapeseed Oil",
+    "description": "Lightweight, easily absorbed, good for oily skin.",
+    "image": "grapeseed_oil.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 27,
+    "name": "Sesame Oil",
+    "description": "High in antioxidants, good for dry and mature skin.",
+    "image": "sesame_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 28,
+    "name": "Safflower Oil",
+    "description": "High in linoleic acid, good for oily skin.",
+    "image": "safflower_oil.jpg",
+    "price": 1400,
+    "currency": "NGN"
+  },
+  {
+    "id": 29,
+    "name": "Sunflower Oil",
+    "description": "Rich in vitamin E, good for all skin types.",
+    "image": "sunflower_oil.jpg",
+    "price": 900,
+    "currency": "NGN"
+  },
+  {
+    "id": 30,
+    "name": "Wheat Germ Oil",
+    "description": "High in vitamin E and antioxidants.",
+    "image": "wheat_germ_oil.jpg",
+    "price": 2400,
+    "currency": "NGN"
+  }
+]

@@ -1,0 +1,163 @@
+[
+    {
+    "id": 1,
+    "name": "Lavender Essential Oil",
+    "description": "Calming, relaxing, and promotes sleep.",
+    "image": "lavender_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 2,
+    "name": "Tea Tree Essential Oil",
+    "description": "Antimicrobial, good for acne and minor cuts.",
+    "image": "tea_tree_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 3,
+    "name": "Eucalyptus Essential Oil",
+    "description": "Relieves congestion and promotes respiratory health.",
+    "image": "eucalyptus_oil.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 4,
+    "name": "Peppermint Essential Oil",
+    "description": "Refreshing, invigorating, and can help with headaches.",
+    "image": "peppermint_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 5,
+    "name": "Lemon Essential Oil",
+    "description": "Uplifting, refreshing, and can help clean surfaces.",
+    "image": "lemon_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 6,
+    "name": "Orange Essential Oil",
+    "description": "Uplifting and calming, can help reduce stress.",
+    "image": "orange_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 7,
+    "name": "Frankincense Essential Oil",
+    "description": "Calming and grounding, often used in aromatherapy.",
+    "image": "frankincense_oil.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 8,
+    "name": "Rose Essential Oil",
+    "description": "Aphrodisiac and calming, very expensive.",
+    "image": "rose_oil.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 9,
+    "name": "Ylang Ylang Essential Oil",
+    "description": "Relaxing and uplifting, often used in perfumes.",
+    "image": "ylang_ylang_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 10,
+    "name": "Sandalwood Essential Oil",
+    "description": "Calming and grounding, often used in aromatherapy.",
+    "image": "sandalwood_oil.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 11,
+    "name": "Patchouli Essential Oil",
+    "description": "Earthy and grounding, often used in perfumes.",
+    "image": "patchouli_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 12,
+    "name": "Cedarwood Essential Oil",
+    "description": "Calming and grounding, often used in aromatherapy.",
+    "image": "cedarwood_oil.jpg",
+    "price": 1600,
+    "currency": "NGN"
+  },
+  {
+    "id": 13,
+    "name": "Vetiver Essential Oil",
+    "description": "Grounding and calming, often used in perfumes.",
+    "image": "vetiver_oil.jpg",
+    "price": 2200,
+    "currency": "NGN"
+  },
+  {
+    "id": 14,
+    "name": "Clary Sage Essential Oil",
+    "description": "Hormonal balancing, may help with menstrual cramps.",
+    "image": "clary_sage_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 15,
+    "name": "Chamomile Essential Oil",
+    "description": "Calming and soothing, can help with anxiety and insomnia.",
+    "image": "chamomile_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 16,
+    "name": "Juniper Berry Essential Oil",
+    "description": "Cleansing and purifying, may help with respiratory issues.",
+    "image": "juniper_berry_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 17,
+    "name": "Geranium Essential Oil",
+    "description": "Balancing and uplifting, may help with hormonal imbalances.",
+    "image": "geranium_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 18,
+    "name": "Neroli Essential Oil",
+    "description": "Uplifting and calming, often used in perfumes.",
+    "image": "neroli_oil.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 19,
+    "name": "Jasmine Essential Oil",
+    "description": "Aphrodisiac and calming, very expensive.",
+    "image": "jasmine_oil.jpg",
+    "price": 6000,
+    "currency": "NGN"
+  },
+  {
+    "id": 20,
+    "name": "Ylang Ylang Essential Oil",
+    "description": "Relaxing and uplifting, often used in perfumes.",
+    "image": "ylang_ylang_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  }
+
+]
