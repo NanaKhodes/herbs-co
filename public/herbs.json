@@ -1,0 +1,965 @@
+[
+  {
+    "id": 1,
+    "name": "Lavender",
+    "description": "Calming and relaxing.",
+    "image": "lavender.jpg",
+    "price": 6000,
+    "currency": "NGN"
+  },
+  {
+    "id": 2,
+    "name": "Rosemary",
+    "description": "Enhances memory and focus.",
+    "image": "rosemary.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 3,
+    "name": "Chamomile",
+    "description": "Soothes anxiety and promotes sleep.",
+    "image": "chamomile.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 4,
+    "name": "Peppermint",
+    "description": "Relieves headaches and digestive issues.",
+    "image": "peppermint.jpg",
+    "price": 7500,
+    "currency": "NGN"
+  },
+  {
+    "id": 5,
+    "name": "Eucalyptus",
+    "description": "Relieves congestion and clears the sinuses.",
+    "image": "eucalyptus.jpg",
+    "price": 9000,
+    "currency": "NGN"
+  },
+  {
+    "id": 6,
+    "name": "Ginger",
+    "description": "Aids digestion and relieves nausea.",
+    "image": "ginger.jpg",
+    "price": 3750,
+    "currency": "NGN"
+  },
+  {
+    "id": 7,
+    "name": "Turmeric",
+    "description": "Anti-inflammatory and antioxidant properties.",
+    "image": "turmeric.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 8,
+    "name": "Lemon Balm",
+    "description": "Reduces stress and anxiety.",
+    "image": "lemon_balm.jpg",
+    "price": 4500,
+    "currency": "NGN"
+  },
+  {
+    "id": 9,
+    "name": "Valerian Root",
+    "description": "Promotes relaxation and sleep.",
+    "image": "valerian_root.jpg",
+    "price": 7000,
+    "currency": "NGN"
+  },
+  {
+    "id": 10,
+    "name": "Ashwagandha",
+    "description": "Reduces stress and improves mood.",
+    "image": "ashwagandha.jpg",
+    "price": 10000,
+    "currency": "NGN"
+  },
+  {
+    "id": 11,
+    "name": "Ginkgo Biloba",
+    "description": "Enhances cognitive function.",
+    "image": "ginkgo_biloba.jpg",
+    "price": 8000,
+    "currency": "NGN"
+  },
+  {
+    "id": 12,
+    "name": "Echinacea",
+    "description": "Supports immune health.",
+    "image": "echinacea.jpg",
+    "price": 6000,
+    "currency": "NGN"
+  },
+  {
+    "id": 13,
+    "name": "St. John's Wort",
+    "description": "May help with mild to moderate depression.",
+    "image": "st_johns_wort.jpg",
+    "price": 9000,
+    "currency": "NGN"
+  },
+  {
+    "id": 14,
+    "name": "Dandelion Root",
+    "description": "Supports liver health.",
+    "image": "dandelion_root.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 15,
+    "name": "Burdock Root",
+    "description": "Supports healthy blood sugar levels.",
+    "image": "burdock_root.jpg",
+    "price": 4500,
+    "currency": "NGN"
+  },
+  {
+    "id": 16,
+    "name": "Licorice Root",
+    "description": "Soothes sore throats and coughs.",
+    "image": "licorice_root.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 17,
+    "name": "Fennel Seed",
+    "description": "Aids digestion and relieves gas.",
+    "image": "fennel_seed.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 18,
+    "name": "Cumin Seed",
+    "description": "Aids digestion and adds flavor to food.",
+    "image": "cumin_seed.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 19,
+    "name": "Oregano",
+    "description": "Antioxidant and antimicrobial properties.",
+    "image": "oregano.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 20,
+    "name": "Thyme",
+    "description": "Supports respiratory health.",
+    "image": "thyme.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 21,
+    "name": "Basil",
+    "description": "Antioxidant and anti-inflammatory properties.",
+    "image": "basil.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 22,
+    "name": "Parsley",
+    "description": "Rich in vitamins and minerals.",
+    "image": "parsley.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 23,
+    "name": "Cilantro",
+    "description": "Aids digestion and adds flavor to food.",
+    "image": "cilantro.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 24,
+    "name": "Sage",
+    "description": "Supports cognitive function.",
+    "image": "sage.jpg",
+    "price": 5500,
+    "currency": "NGN"
+  },
+  {
+    "id": 25,
+    "name": "Cinnamon",
+    "description": "Antioxidant and anti-inflammatory properties.",
+    "image": "cinnamon.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 26,
+    "name": "Ginger Root",
+    "description": "Aids digestion and relieves nausea.",
+    "image": "ginger_root.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 27,
+    "name": "Garlic",
+    "description": "Antimicrobial and immune-boosting properties.",
+    "image": "garlic.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 28,
+    "name": "Onion",
+    "description": "Antioxidant and anti-inflammatory properties.",
+    "image": "onion.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 29,
+    "name": "Pepper",
+    "description": "Adds flavor and may have some health benefits.",
+    "image": "pepper.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 30,
+    "name": "Valerian Root",
+    "description": "Promotes relaxation and sleep.",
+    "image": "valerian_root.jpg",
+    "price": 7000,
+    "currency": "NGN"
+  },
+
+  {
+    "id": 31,
+    "name": "Sweet Almond Oil",
+    "description": "Light, easily absorbed, suitable for all skin types.",
+    "image": "sweet_almond_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 32,
+    "name": "Jojoba Oil",
+    "description": "Closely resembles human sebum, non-greasy.",
+    "image": "jojoba_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 33,
+    "name": "Coconut Oil",
+    "description": "Antimicrobial, moisturizing, good for hair and skin.",
+    "image": "coconut_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 34,
+    "name": "Argan Oil",
+    "description": "Rich in antioxidants, good for dry and mature skin.",
+    "image": "argan_oil.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 35,
+    "name": "Grapeseed Oil",
+    "description": "Lightweight, easily absorbed, good for oily skin.",
+    "image": "grapeseed_oil.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 36,
+    "name": "Olive Oil",
+    "description": "Moisturizing, nourishing, good for all skin types.",
+    "image": "olive_oil.jpg",
+    "price": 800,
+    "currency": "NGN"
+  },
+  {
+    "id": 37,
+    "name": "Avocado Oil",
+    "description": "Rich in vitamins and minerals, good for dry and mature skin.",
+    "image": "avocado_oil.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 38,
+    "name": "Rosehip Oil",
+    "description": "High in antioxidants, helps reduce the appearance of scars.",
+    "image": "rosehip_oil.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 39,
+    "name": "Evening Primrose Oil",
+    "description": "Soothes dry and irritated skin.",
+    "image": "evening_primrose_oil.jpg",
+    "price": 2200,
+    "currency": "NGN"
+  },
+  {
+    "id": 40,
+    "name": "Hemp Seed Oil",
+    "description": "Rich in omega-3 and omega-6 fatty acids.",
+    "image": "hemp_seed_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 41,
+    "name": "Borage Oil",
+    "description": "High in gamma-linolenic acid (GLA), good for dry skin.",
+    "image": "borage_oil.jpg",
+    "price": 2800,
+    "currency": "NGN"
+  },
+  {
+    "id": 42,
+    "name": "Black Seed Oil",
+    "description": "Anti-inflammatory, may help with skin conditions.",
+    "image": "black_seed_oil.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 43,
+    "name": "Apricot Kernel Oil",
+    "description": "Light and easily absorbed, good for all skin types.",
+    "image": "apricot_kernel_oil.jpg",
+    "price": 1600,
+    "currency": "NGN"
+  },
+  {
+    "id": 44,
+    "name": "Macadamia Nut Oil",
+    "description": "Rich in palmitoleic acid, good for dry and mature skin.",
+    "image": "macadamia_nut_oil.jpg",
+    "price": 3200,
+    "currency": "NGN"
+  },
+  {
+    "id": 45,
+    "name": "Hazelnut Oil",
+    "description": "Lightweight and easily absorbed, good for oily skin.",
+    "image": "hazelnut_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 46,
+    "name": "Grapefruit Seed Oil",
+    "description": "Antimicrobial properties, may help with acne.",
+    "image": "grapefruit_seed_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 47,
+    "name": "Evening Primrose Oil",
+    "description": "Soothes dry and irritated skin.",
+    "image": "evening_primrose_oil.jpg",
+    "price": 2200,
+    "currency": "NGN"
+  },
+  {
+    "id": 48,
+    "name": "Sesame Oil",
+    "description": "High in antioxidants, good for dry and mature skin.",
+    "image": "sesame_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 49,
+    "name": "Safflower Oil",
+    "description": "High in linoleic acid, good for oily skin.",
+    "image": "safflower_oil.jpg",
+    "price": 1400,
+    "currency": "NGN"
+  },
+  {
+    "id": 50,
+    "name": "Sunflower Oil",
+    "description": "Rich in vitamin E, good for all skin types.",
+    "image": "sunflower_oil.jpg",
+    "price": 900,
+    "currency": "NGN"
+  },
+  {
+    "id": 51,
+    "name": "Wheat Germ Oil",
+    "description": "High in vitamin E and antioxidants.",
+    "image": "wheat_germ_oil.jpg",
+    "price": 2400,
+    "currency": "NGN"
+  },
+  {
+    "id": 52,
+    "name": "Almond Oil",
+    "description": "Light, easily absorbed, suitable for all skin types.",
+    "image": "almond_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 53,
+    "name": "Jojoba Oil",
+    "description": "Closely resembles human sebum, non-greasy.",
+    "image": "jojoba_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 54,
+    "name": "Coconut Oil",
+    "description": "Antimicrobial, moisturizing, good for hair and skin.",
+    "image": "coconut_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 55,
+    "name": "Argan Oil",
+    "description": "Rich in antioxidants, good for dry and mature skin.",
+    "image": "argan_oil.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 56,
+    "name": "Grapeseed Oil",
+    "description": "Lightweight, easily absorbed, good for oily skin.",
+    "image": "grapeseed_oil.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 57,
+    "name": "Sesame Oil",
+    "description": "High in antioxidants, good for dry and mature skin.",
+    "image": "sesame_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 58,
+    "name": "Safflower Oil",
+    "description": "High in linoleic acid, good for oily skin.",
+    "image": "safflower_oil.jpg",
+    "price": 1400,
+    "currency": "NGN"
+  },
+  {
+    "id": 59,
+    "name": "Sunflower Oil",
+    "description": "Rich in vitamin E, good for all skin types.",
+    "image": "sunflower_oil.jpg",
+    "price": 900,
+    "currency": "NGN"
+  },
+  {
+    "id": 60,
+    "name": "Wheat Germ Oil",
+    "description": "High in vitamin E and antioxidants.",
+    "image": "wheat_germ_oil.jpg",
+    "price": 2400,
+    "currency": "NGN"
+  },
+
+  {
+    "id": 61,
+    "name": "Cinnamon",
+    "description": "Warm, sweet spice used in baking and savory dishes.",
+    "image": "cinnamon.jpg",
+    "price": 500,
+    "currency": "NGN"
+  },
+  {
+    "id": 62,
+    "name": "Ginger",
+    "description": "Aromatic spice used in Asian and Indian cuisine.",
+    "image": "ginger.jpg",
+    "price": 800,
+    "currency": "NGN"
+  },
+  {
+    "id": 63,
+    "name": "Turmeric",
+    "description": "Bright yellow spice with anti-inflammatory properties.",
+    "image": "turmeric.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 64,
+    "name": "Cumin",
+    "description": "Earthy and warm spice used in Mexican and Indian cuisine.",
+    "image": "cumin.jpg",
+    "price": 300,
+    "currency": "NGN"
+  },
+  {
+    "id": 65,
+    "name": "Coriander",
+    "description": "Slightly citrusy flavor, used in many cuisines.",
+    "image": "coriander.jpg",
+    "price": 400,
+    "currency": "NGN"
+  },
+  {
+    "id": 66,
+    "name": "Paprika",
+    "description": "Mild to hot chili powder, adds color and flavor.",
+    "image": "paprika.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 67,
+    "name": "Chili Powder",
+    "description": "Spicy blend of chili peppers and other spices.",
+    "image": "chili_powder.jpg",
+    "price": 350,
+    "currency": "NGN"
+  },
+  {
+    "id": 68,
+    "name": "Cayenne Pepper",
+    "description": "Very hot chili pepper, adds intense heat.",
+    "image": "cayenne_pepper.jpg",
+    "price": 450,
+    "currency": "NGN"
+  },
+  {
+    "id": 69,
+    "name": "Garlic Powder",
+    "description": "Dried and ground garlic, adds savory flavor.",
+    "image": "garlic_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 70,
+    "name": "Onion Powder",
+    "description": "Dried and ground onion, adds savory flavor.",
+    "image": "onion_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 71,
+    "name": "Oregano",
+    "description": "Aromatic herb, commonly used in Italian cuisine.",
+    "image": "oregano.jpg",
+    "price": 250,
+    "currency": "NGN"
+  },
+  {
+    "id": 72,
+    "name": "Basil",
+    "description": "Aromatic herb, often used in Italian cuisine.",
+    "image": "basil.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 73,
+    "name": "Rosemary",
+    "description": "Woody and flavorful herb, often used in roasting.",
+    "image": "rosemary.jpg",
+    "price": 300,
+    "currency": "NGN"
+  },
+  {
+    "id": 74,
+    "name": "Thyme",
+    "description": "Aromatic herb, often used in soups and stews.",
+    "image": "thyme.jpg",
+    "price": 250,
+    "currency": "NGN"
+  },
+  {
+    "id": 75,
+    "name": "Parsley",
+    "description": "Fresh or dried herb, used as garnish and in many dishes.",
+    "image": "parsley.jpg",
+    "price": 100,
+    "currency": "NGN"
+  },
+  {
+    "id": 76,
+    "name": "Bay Leaves",
+    "description": "Aromatic leaves used in soups, stews, and stocks.",
+    "image": "bay_leaves.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 77,
+    "name": "Nutmeg",
+    "description": "Nutty and slightly sweet spice, used in baking and savory dishes.",
+    "image": "nutmeg.jpg",
+    "price": 600,
+    "currency": "NGN"
+  },
+  {
+    "id": 78,
+    "name": "Cloves",
+    "description": "Strong, pungent spice used in baking and savory dishes.",
+    "image": "cloves.jpg",
+    "price": 400,
+    "currency": "NGN"
+  },
+  {
+    "id": 79,
+    "name": "Cardamom",
+    "description": "Aromatic and slightly sweet spice, often used in Indian cuisine.",
+    "image": "cardamom.jpg",
+    "price": 800,
+    "currency": "NGN"
+  },
+  {
+    "id": 80,
+    "name": "Star Anise",
+    "description": "Aromatic star-shaped spice used in Asian cuisine.",
+    "image": "star_anise.jpg",
+    "price": 700,
+    "currency": "NGN"
+  },
+  {
+    "id": 81,
+    "name": "Fennel",
+    "description": "Licorice-flavored spice, used in Italian sausage and other dishes.",
+    "image": "fennel.jpg",
+    "price": 350,
+    "currency": "NGN"
+  },
+  {
+    "id": 82,
+    "name": "Mustard Seeds",
+    "description": "Used in Indian, Middle Eastern, and European cuisines.",
+    "image": "mustard_seeds.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 83,
+    "name": "Black Pepper",
+    "description": "Commonly used spice, adds heat and flavor to dishes.",
+    "image": "black_pepper.jpg",
+    "price": 100,
+    "currency": "NGN"
+  },
+  {
+    "id": 84,
+    "name": "White Pepper",
+    "description": "Milder than black pepper, often used in lighter-colored dishes.",
+    "image": "white_pepper.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 85,
+    "name": "Allspice",
+    "description": "Aromatic spice with a blend of cinnamon, nutmeg, and cloves flavors.",
+    "image": "allspice.jpg",
+    "price": 500,
+    "currency": "NGN"
+  },
+  {
+    "id": 86,
+    "name": "Paprika",
+    "description": "Mild to hot chili powder, adds color and flavor.",
+    "image": "paprika.jpg",
+    "price": 200,
+    "currency": "NGN"
+  },
+  {
+    "id": 87,
+    "name": "Chili Powder",
+    "description": "Spicy blend of chili peppers and other spices.",
+    "image": "chili_powder.jpg",
+    "price": 350,
+    "currency": "NGN"
+  },
+  {
+    "id": 88,
+    "name": "Cayenne Pepper",
+    "description": "Very hot chili pepper, adds intense heat.",
+    "image": "cayenne_pepper.jpg",
+    "price": 450,
+    "currency": "NGN"
+  },
+  {
+    "id": 89,
+    "name": "Garlic Powder",
+    "description": "Dried and ground garlic, adds savory flavor.",
+    "image": "garlic_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+  {
+    "id": 90,
+    "name": "Onion Powder",
+    "description": "Dried and ground onion, adds savory flavor.",
+    "image": "onion_powder.jpg",
+    "price": 150,
+    "currency": "NGN"
+  },
+
+  {
+    "id": 91,
+    "name": "Shea Butter",
+    "description": "Rich and creamy, excellent for dry skin.",
+    "image": "shea_butter.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 92,
+    "name": "Mango Butter",
+    "description": "Nourishing and moisturizing, good for all skin types.",
+    "image": "mango_butter.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 93,
+    "name": "Cocoa Butter",
+    "description": "Rich in antioxidants, helps improve skin elasticity.",
+    "image": "cocoa_butter.jpg",
+    "price": 2800,
+    "currency": "NGN"
+  },
+  {
+    "id": 94,
+    "name": "Murumuru Butter",
+    "description": "Highly moisturizing, good for dry and damaged hair.",
+    "image": "murumuru_butter.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 95,
+    "name": "Cupuaçu Butter",
+    "description": "Rich in fatty acids, excellent for dry and sensitive skin.",
+    "image": "cupuacu_butter.jpg",
+    "price": 3200,
+    "currency": "NGN"
+  },
+  {
+    "id": 96,
+    "name": "Ucuuba Butter",
+    "description": "Hard butter with excellent moisturizing properties.",
+    "image": "ucuuba_butter.jpg",
+    "price": 3800,
+    "currency": "NGN"
+  },
+  {
+    "id": 97,
+    "name": "Illipe Butter",
+    "description": "Rich and creamy, good for dry and mature skin.",
+    "image": "illipe_butter.jpg",
+    "price": 4000,
+    "currency": "NGN"
+  },
+  {
+    "id": 98,
+    "name": "Babassu Butter",
+    "description": "Lightweight and easily absorbed, good for all skin types.",
+    "image": "babassu_butter.jpg",
+    "price": 2800,
+    "currency": "NGN"
+  },
+  {
+    "id": 99,
+    "name": "Mango Butter",
+    "description": "Nourishing and moisturizing, good for all skin types.",
+    "image": "mango_butter.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 100,
+    "name": "Kokum Butter",
+    "description": "Rich in antioxidants, helps improve skin elasticity.",
+    "image": "kokum_butter.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 101,
+    "name": "Lavender Essential Oil",
+    "description": "Calming, relaxing, and promotes sleep.",
+    "image": "lavender_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 102,
+    "name": "Tea Tree Essential Oil",
+    "description": "Antimicrobial, good for acne and minor cuts.",
+    "image": "tea_tree_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 103,
+    "name": "Eucalyptus Essential Oil",
+    "description": "Relieves congestion and promotes respiratory health.",
+    "image": "eucalyptus_oil.jpg",
+    "price": 1000,
+    "currency": "NGN"
+  },
+  {
+    "id": 104,
+    "name": "Peppermint Essential Oil",
+    "description": "Refreshing, invigorating, and can help with headaches.",
+    "image": "peppermint_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 105,
+    "name": "Lemon Essential Oil",
+    "description": "Uplifting, refreshing, and can help clean surfaces.",
+    "image": "lemon_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 106,
+    "name": "Orange Essential Oil",
+    "description": "Uplifting and calming, can help reduce stress.",
+    "image": "orange_oil.jpg",
+    "price": 1200,
+    "currency": "NGN"
+  },
+  {
+    "id": 107,
+    "name": "Frankincense Essential Oil",
+    "description": "Calming and grounding, often used in aromatherapy.",
+    "image": "frankincense_oil.jpg",
+    "price": 2500,
+    "currency": "NGN"
+  },
+  {
+    "id": 108,
+    "name": "Rose Essential Oil",
+    "description": "Aphrodisiac and calming, very expensive.",
+    "image": "rose_oil.jpg",
+    "price": 5000,
+    "currency": "NGN"
+  },
+  {
+    "id": 109,
+    "name": "Ylang Ylang Essential Oil",
+    "description": "Relaxing and uplifting, often used in perfumes.",
+    "image": "ylang_ylang_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 110,
+    "name": "Sandalwood Essential Oil",
+    "description": "Calming and grounding, often used in aromatherapy.",
+    "image": "sandalwood_oil.jpg",
+    "price": 3000,
+    "currency": "NGN"
+  },
+  {
+    "id": 111,
+    "name": "Patchouli Essential Oil",
+    "description": "Earthy and grounding, often used in perfumes.",
+    "image": "patchouli_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 112,
+    "name": "Cedarwood Essential Oil",
+    "description": "Calming and grounding, often used in aromatherapy.",
+    "image": "cedarwood_oil.jpg",
+    "price": 1600,
+    "currency": "NGN"
+  },
+  {
+    "id": 113,
+    "name": "Vetiver Essential Oil",
+    "description": "Grounding and calming, often used in perfumes.",
+    "image": "vetiver_oil.jpg",
+    "price": 2200,
+    "currency": "NGN"
+  },
+  {
+    "id": 114,
+    "name": "Clary Sage Essential Oil",
+    "description": "Hormonal balancing, may help with menstrual cramps.",
+    "image": "clary_sage_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  },
+  {
+    "id": 115,
+    "name": "Chamomile Essential Oil",
+    "description": "Calming and soothing, can help with anxiety and insomnia.",
+    "image": "chamomile_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 116,
+    "name": "Juniper Berry Essential Oil",
+    "description": "Cleansing and purifying, may help with respiratory issues.",
+    "image": "juniper_berry_oil.jpg",
+    "price": 1500,
+    "currency": "NGN"
+  },
+  {
+    "id": 117,
+    "name": "Geranium Essential Oil",
+    "description": "Balancing and uplifting, may help with hormonal imbalances.",
+    "image": "geranium_oil.jpg",
+    "price": 1800,
+    "currency": "NGN"
+  },
+  {
+    "id": 118,
+    "name": "Neroli Essential Oil",
+    "description": "Uplifting and calming, often used in perfumes.",
+    "image": "neroli_oil.jpg",
+    "price": 3500,
+    "currency": "NGN"
+  },
+  {
+    "id": 119,
+    "name": "Jasmine Essential Oil",
+    "description": "Aphrodisiac and calming, very expensive.",
+    "image": "jasmine_oil.jpg",
+    "price": 6000,
+    "currency": "NGN"
+  },
+  {
+    "id": 120,
+    "name": "Ylang Ylang Essential Oil",
+    "description": "Relaxing and uplifting, often used in perfumes.",
+    "image": "ylang_ylang_oil.jpg",
+    "price": 2000,
+    "currency": "NGN"
+  }
+]

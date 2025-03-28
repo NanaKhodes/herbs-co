@@ -15,10 +15,12 @@ const Shop = () => {
       } catch (error) {
         console.error("Error fetching data:", error);
       }
+      
     };
 
     fetchData();
   }, []);
+
 
   const indexOfLastItem = currentPage * itemsPerPage;
   const indexOfFirstItem = indexOfLastItem - itemsPerPage;

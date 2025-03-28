@@ -15,11 +15,16 @@ import Carrier from "./pages/Carrier";
 import Butters from "./pages/Butters";
 import Aromatic from "./pages/Aromatic";
 import Essential from "./pages/Essential";
+import React, { useState } from 'react';
+import Search from './Search/Search';
+
 function App() {
- 
+
+
   return (
     <Router>
-      <Nav />
+      <Nav/>
+      <Search />
       <Routes>
         <Route
           path="/"
@@ -41,7 +46,6 @@ function App() {
         <Route path="/aromatic" element={<Aromatic />} />
         <Route path="/butters" element={<Butters />} />
         <Route path="/essential" element={<Essential />} />
-
       </Routes>
       <Footer />
     </Router>
